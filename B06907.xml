@@ -1,0 +1,297 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Loves fortune. Or, A faint-hearted souldier will never win the field. The young-mans good fortune in wooing his love: she was rich, and he but poor, and she vowed she ne'r would love him more, yet day and night he took great pain, and for to love her once again. Tune is, Sweet come love me once again.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06907</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[168]</idno>
+            <idno type="EEBO-CITATION">99887209</idno>
+            <idno type="PROQUEST">ocm99887209</idno>
+            <idno type="VID">181917</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06907)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181917)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[168])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Loves fortune. Or, A faint-hearted souldier will never win the field. The young-mans good fortune in wooing his love: she was rich, and he but poor, and she vowed she ne'r would love him more, yet day and night he took great pain, and for to love her once again. Tune is, Sweet come love me once again.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F[rancis]. Coles, T[homas]. Vere, J[ohn]. Wright, J[ohn]. Clark, W[illiam]. Thackeray, and T[homas]. Passinger.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Walking most early in the morning fair ..."</note>
+                  <note>Date, place of publication and publisher's names from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181917:1"/>
+            <!-- PDF PAGE 4 -->
+            <head>Loves fortune. OR, <hi>A faint-hearted Souldier will never win the Field.</hi>
+            </head>
+            <argument>
+               <lg>
+                  <l>The Young-mans good fortune in wooing his Love:</l>
+                  <l>She was Rich, and he but poor,</l>
+                  <l>And ſhe vowed ſhe ne'r would love him more,</l>
+                  <l>Yet Day and Night he took great pain,</l>
+                  <l>And for to love her once again.</l>
+               </lg>
+            </argument>
+            <opener>Tune is, <hi>Sweet come love me once again.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>WAlking moſt early in a morning fair,</l>
+               <l>I heard a young-man thus did ſay,</l>
+               <l>O how do I live in deſpair,</l>
+               <l>for her that's ſweeter than the May:</l>
+               <l>But I will to her once again,</l>
+               <l>to ſee if ſhe'l me entertain,</l>
+               <l>With kiſſes ſweet I will her greet,</l>
+               <l>
+                  <hi>and for to love me once again.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Sweet-heart, ſaid he, tell me thy mind,</l>
+               <l>why thou ſhouldſt thus hard-hearted be:</l>
+               <l>Or why wilt thou prove thus unkind</l>
+               <l>to him that is ſo true to thee.</l>
+               <l>But for my part, I'm Royal in my heart,</l>
+               <l>and evermore will ſo remain;</l>
+               <l>Sweet kill not me with diſloyalty,</l>
+               <l>
+                  <hi>but vow to love me once again.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Kind Sir I thank you for your love,</l>
+               <l>but you are very much to blame,</l>
+               <l>To ſeek my thoughts thus for to prove,</l>
+               <l>piſh fye away be gone for ſhame.</l>
+               <l>For many a maid hath been betray'd,</l>
+               <l>therefore in love I pray give o're,</l>
+               <l>Hands off be gone, let me alone,</l>
+               <l>
+                  <hi>for I vow I ne'r will love thee more.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Alas dear love ſome pitty take</l>
+               <l>on me that loves you ſo intire;</l>
+               <l>My life lies bound unto a ſtake,</l>
+               <l>let me not burn in <hi>Cupids</hi> Fire:</l>
+               <l>My heart ſo free in loving thee,</l>
+               <l>blind <hi>Cupid</hi> hath my ſences tane:</l>
+               <l>Some pitty move my deareſt love,</l>
+               <l>
+                  <hi>and now, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Content thy ſelf love ſay no more,</l>
+               <l>for ſure thou art no match for me,</l>
+               <l>My Parents Rich and thine but poor,</l>
+               <l>and that may cauſe great miſery:</l>
+               <l>And thus I'le ſay both night and day,</l>
+               <l>a ſingle life I'le ne'r give o're,</l>
+               <l>Therefore be gone, let me alone,</l>
+               <l>
+                  <hi>for I vow I'le never love thee more.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>O be content my deareſt love,</l>
+               <l>on worldly means ſet not thy mind,</l>
+               <l>Tho thou be Rich and I but poor,</l>
+               <l>O be not thou to me unkind.</l>
+               <l>No pains i'le ſpare, but take great care,</l>
+               <l>thee for to pleaſe i'le take great pain;</l>
+               <l>Be not unkind but change thy mind,</l>
+               <l>
+                  <hi>and now come love me once again.</hi>
+               </l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>KInd Sir, I thank you for your love,</l>
+               <l>and for the pains that you would take;</l>
+               <l>My mind you never can remove,</l>
+               <l>I pray you chuſe ſome other mate:</l>
+               <l>For words are but wind &amp; may prove-unkind,</l>
+               <l>therefore leave off I pray give o're;</l>
+               <l>To live with thee i'le not combine</l>
+               <l>
+                  <hi>for I vow I'le never love thee more.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Hard hap had I to ſet my love</l>
+               <l>on one that cares ſo ſmall for me,</l>
+               <l>No hopes have I but from above,</l>
+               <l>to change thy mind and fancy me;</l>
+               <l>But yet I ſtand at thy command,</l>
+               <l>ſweet kill not me with coy diſdain,</l>
+               <l>Some pitty take and anſwer make,</l>
+               <l>
+                  <hi>that thou wilt love me again.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Sweet come tell me (if thou can)</l>
+               <l>the beſt way now this ſame to carry,</l>
+               <l>If I ſhould yield both heart and hand,</l>
+               <l>to be thy Bride and for to marry:</l>
+               <l>For friends and kindreds love to get,</l>
+               <l>or ſurely it may breed great pain,</l>
+               <l>Procure the ſame, i'le thee reſpect,</l>
+               <l>
+                  <hi>I vow to love thee once again.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>My deareſt dear take thou no care,</l>
+               <l>but mark the words that I do ſay,</l>
+               <l>What lies in me I will not ſpare,</l>
+               <l>if thou wilt love and fancy me.</l>
+               <l>Let Father frown, let Mother chide,</l>
+               <l>a heart that's true will never ſtain,</l>
+               <l>Come life or death i'le ſtick to thee,</l>
+               <l>
+                  <hi>if thou wilt love me once again.</hi>
+               </l>
+               <l>
+                  <hi>The Maid.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Five hundred pound my portion is,</l>
+               <l>and all this on thee I will beſtow,</l>
+               <l>VVith heart and hand take here this kiſs,</l>
+               <l>thou art my own and ſhall be ſo:</l>
+               <l>Come wealth or woe with thee i'le go,</l>
+               <l>through <hi>England, Scotland, France</hi> or <hi>Spain</hi>
+               </l>
+               <l>
+                  <hi>Cupid</hi> hath told me it muſt be ſo,</l>
+               <l>
+                  <hi>and I vow to love thee once again.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>All you true Lovers that hear this Song,</l>
+               <l>let this to you a pattern be:</l>
+               <l>Seek not your true Love for to wrong,</l>
+               <l>neither for Gold nor yet for fee.</l>
+               <l>He is my delight both day and night,</l>
+               <l>true love is worth a Golden Chain,</l>
+               <l>All you true Lovers is this not right,</l>
+               <l>
+                  <hi>to grant true love for love again.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for F. Coles, T. Vere, J. Wright, J. Clark, W. Thackeray, and T. Paſſinger.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
